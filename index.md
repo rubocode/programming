@@ -4,8 +4,8 @@
 
 ## Programming
 
-> As long as you live, keep learning how to live.  
-> **Seneca**
+> All learning begins when our comfortable ideas turn out to be inadequate.  
+**John Dewey**
 
 | [Introduction](introduction) | [Efficiency](efficiency) | [Scale](scale)
 
